@@ -173,7 +173,11 @@ image: '/insect-lidar-telescope.jpeg'
 
 # Lidar system and data
 
-<img src="/data-overview.svg" class="h-full w-full">
+<br>
+<br>
+<br>
+
+<img src="/data-overview.svg" />
 
 ---
 layout: image
@@ -486,4 +490,6 @@ layout: section
 
 # Lidar system diagram
 
-<img src="/lidar-system-diagram.png" class="h-full">
+<div class="flex justify-center">
+<img src="/lidar-system-diagram.png" class="h-110" />
+</div>
