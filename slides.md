@@ -33,8 +33,8 @@ SPIE Real-time Imaging and Deep Learning 2022
 Trevor C. Vannoy, Elizabeth M. Rehbein, Riley D. Logan, Joseph A. Shaw, Bradley M. Whitaker
 
 <div class="flex justify-evenly">
-<img src="MSU-mm.png" class="h-50"/>
-<img src="Air_Force_Research_Laboratory.svg" class="h-50"/>
+<img src="/MSU-mm.png" class="h-50"/>
+<img src="/Air_Force_Research_Laboratory.svg" class="h-50"/>
 </div>
 
 <style>
@@ -228,7 +228,7 @@ layout: statement
 # implement insect detection on an FPGA
 
 <div class="flex justify-center">
-<img src="fpga.jpg" class="h-70 w-auto"/>
+<img src="/fpga.jpg" class="h-70 w-auto"/>
 </div>
 
 ---
@@ -283,7 +283,7 @@ image: '/feature-extraction.svg'
 # Features listed by importance 
 (Minimum Redundancy --- Maximxum-Relevance)
 
-<img src="feature-ranking.svg" class="w-full"/>
+<img src="/feature-ranking.svg" class="w-full"/>
 
 
 
