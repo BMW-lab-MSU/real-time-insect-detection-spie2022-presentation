@@ -79,11 +79,11 @@ image: '/1178006-LGPT.jpg'
 licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons Attribution-Noncommercial 3.0 License</a>.
 </p>
 
-<style>
+<!-- <style>
   h1 {
     @apply text-shadow-xl
   }
-</style>
+</style> -->
 
 ---
 layout: image
@@ -115,11 +115,11 @@ Gary L. Piper, Washington State University, Bugwood.org <br>
 licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0 License</a>.
 </p>
 
-<style>
+<!-- <style>
   h1 {
     @apply text-shadow-xl
   }
-</style>
+</style> -->
 
 ---
 layout: image
