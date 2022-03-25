@@ -33,9 +33,12 @@ SPIE Real-time Imaging and Deep Learning 2022
 Trevor C. Vannoy, Elizabeth M. Rehbein, Riley D. Logan, Joseph A. Shaw, Bradley M. Whitaker
 
 <div class="flex justify-evenly">
-<img src="/MSU-mm.png" class="h-50"/>
-<img src="/Air_Force_Research_Laboratory.svg" class="h-50"/>
+<img src="/MSU-mm.png" class="h-40"/>
+<img src="/Air_Force_Research_Laboratory.svg" class="h-40"/>
 </div>
+
+This material (AFRL-2022-1298) is based on research sponsored by Air Force Research Lab under agreement number FA8650-21-1-1176.
+
 
 <style>
 .slidev-layout.intro h1 {
